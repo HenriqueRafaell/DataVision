@@ -1,6 +1,6 @@
 # DataVision — Dashboard de Estatísticas (FastAPI + SQLite + React)
 
-Projeto pronto para portfólio, com backend em FastAPI (SQLite) e frontend em React + Tailwind + Recharts.
+
 
 ## Como usar (rápido)
 1. Backend:
